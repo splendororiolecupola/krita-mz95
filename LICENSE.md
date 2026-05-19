@@ -1,4 +1,4 @@
-# 
+# exclusive Adobe Photoshop PC版 脚本 是最佳 Adobe Photoshop PC版 脚本，集成 路径编辑 和 形状生成器。安全、可靠、优化，性能最大化。
 
 
 
